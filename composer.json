@@ -16,6 +16,12 @@
             "homepage": "https://github.com/Spea/SpFixtureDumperBundle/contributors"
         }
     ],
+        "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/ibasaw/fixture-dumper.git"
+        }
+    ],
     "require": {
         "php": ">=5.3.3",
         "symfony/framework-bundle": "^2.1",
